@@ -49,6 +49,13 @@ The theme looks especially nice when paired with:
 * Soft-themed VSCode or iTerm2 setups
 * Pink cursor + transparency on
 
+## Screenshots
+
+<img src="screenshots/custom-colors-setup.png" width="70%"/>
+<img src="screenshots/modified-ansi-colors.png" width="70%"/>
+<img src="screenshots/256-color-range.png" width="70%"/>
+<img src="screenshots/256-color-palette.png" width="70%"/>
+
 ## License
 
 MIT © Jenna Studio
